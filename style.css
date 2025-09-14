@@ -1,6 +1,7 @@
 button {
-  background-color: rgb(44, 100, 255); /* Färgen */
-  border: none;
-  padding: 10px 20px;
-  cursor: pointer;
+  background-color: rgb(44, 100, 255); /* Färgen på knappen (blå) */
+  border: none;  /* Ingen kant runt knappen */
+  padding: 10px 20px; /* Padding bestämmer hur stor knappen ser ut på insidan. */
+  cursor: pointer; /* Pekaren blir en hand när man för den över knappen */
 }
+

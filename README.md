@@ -15,6 +15,7 @@
 2. Öppna `index.html` i en webbläsare
 3. Klicka på knappen och se texten ändras
 
+> Jag skrev dessa förklaringar så jag lättare kan förstå och komma ihåg hur det fungerar samt lära mig.
 ## Gjord av
 
 - [@O Y](https://github.com/5OUT5IDE)
